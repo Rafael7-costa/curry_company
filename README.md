@@ -55,22 +55,22 @@ O painel estratégico foi desenvolvido utilizando as métricas que refletem as 3
     f. Quantidade de pedidos por condições de trânsito e tipo de  cidade
 
 #### 2. Visão do crescimento dos restaurantes
-a. Quantidade de pedidos únicos.
-b. Distância média percorrida.
-c. Tempo médio de entrega durante festival e dias normais.
-d. Desvio padrão do tempo de entrega durante festivais e dias normais.
-e. Tempo de entrega médio por cidade.
-f. Distribuição do tempo médio de entrega por cidade.
-g. Tempo médio de entrega por tipo de pedido.
+    a. Quantidade de pedidos únicos.
+    b. Distância média percorrida.
+    c. Tempo médio de entrega durante festival e dias normais.
+    d. Desvio padrão do tempo de entrega durante festivais e dias normais.
+    e. Tempo de entrega médio por cidade.
+    f. Distribuição do tempo médio de entrega por cidade.
+    g. Tempo médio de entrega por tipo de pedido.
 
 #### 3. Visão do crescimento dos entregadores
-a. Idade do entregador mais velho e do mais novo.
-b. Avaliação do melhor e do pior veículo.
-c. Avaliação média por entregador.
-d. Avaliação média por condições de trânsito.
-e. Avaliação média por condições climáticas.
-f. Tempo médido do entregador mais rápido.
-g. Tempo médio do entregador mais rápido por cidade.
+    a. Idade do entregador mais velho e do mais novo.
+    b. Avaliação do melhor e do pior veículo.
+    c. Avaliação média por entregador.
+    d. Avaliação média por condições de trânsito.
+    e. Avaliação média por condições climáticas.
+    f. Tempo médido do entregador mais rápido.
+    g. Tempo médio do entregador mais rápido por cidade.
 
 # Top 3 Insights de dados
 1. A sazonalidade da quantidade de pedidos é diária. Há uma variação de aproximadamente 10% do número de pedidos em dia sequenciais.
