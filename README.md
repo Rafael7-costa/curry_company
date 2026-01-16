@@ -47,12 +47,12 @@ O painel estratégico foi desenvolvido utilizando as métricas que refletem as 3
    
 #### Cada visão é representada pelo seguinte conjunto de métricas.
 #### 1. Visão do crescimento da empresa
- a. Pedidos por dia
- b. Porcentagem de pedidos por condições de trânsito
- c. Quantidade de pedidos por tipo e por cidade.
- d. Pedidos por semana
- e. Quantidade de pedidos por tipo de entrega
- f. Quantidade de pedidos por condições de trânsito e tipo de  cidade
+    a. Pedidos por dia
+    b. Porcentagem de pedidos por condições de trânsito
+    c. Quantidade de pedidos por tipo e por cidade.
+    d. Pedidos por semana
+    e. Quantidade de pedidos por tipo de entrega
+    f. Quantidade de pedidos por condições de trânsito e tipo de  cidade
 
 #### 2. Visão do crescimento dos restaurantes
 a. Quantidade de pedidos únicos.
