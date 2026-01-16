@@ -72,6 +72,14 @@ O painel estratégico foi desenvolvido utilizando as métricas que refletem as 3
     f. Tempo médido do entregador mais rápido.
     g. Tempo médio do entregador mais rápido por cidade.
 
+## As ferramentas utilizadas foram:
+ - Python 
+ - Jupyter Lab
+ - Terminal
+ - Streamlit 
+ - Streamlit Cloud
+ - Github
+
 # Top 3 Insights de dados
 1. A sazonalidade da quantidade de pedidos é diária. Há uma variação de aproximadamente 10% do número de pedidos em dia sequenciais.
 2. As cidades do tipo Semi-Urban não possuem condições baixas de trânsito.
